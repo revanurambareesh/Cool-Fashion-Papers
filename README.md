@@ -59,6 +59,7 @@ __TOC__
 ### Recommendation
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+| Semi-supervised | Semi-Supervised Visual Representation Learning for Fashion Compatibility  | RecSys'21| [[1905.01866]](https://arxiv.org/abs/2109.08052) | [Resources](https://dl.acm.org/doi/10.1145/3460231.3474233) |
 | POG | POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion | KDD 2019 | [[1905.01866]](https://arxiv.org/abs/1905.01866) |  |
 |  | Aesthetic-based Clothing Recommendation | WWW 2018 | [[1809.05822]](https://arxiv.org/abs/1809.05822) |  |
 | CRAFT | CRAFT: Complementary Recommendations Using Adversarial Feature Transformer | ECCVW 2018 | [[1804.10871]](https://arxiv.org/abs/1804.10871) |  |
